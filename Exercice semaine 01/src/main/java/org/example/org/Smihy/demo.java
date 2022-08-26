@@ -1,2 +1,12 @@
-package org.example.org.Smihy;public class demo {
+package org.example.org.Smihy;
+
+public class demo
+{
+
+        public static void main( String[] args )
+        {
+            System.out.println( "Bonjour Smihy!" );
+        }
+
 }
+
