@@ -1,4 +1,4 @@
-package org.example.org.Smihy;
+package Semaine02;
 
 import com.google.common.io.Resources;
 import java.io.IOException;

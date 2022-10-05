@@ -1,4 +1,4 @@
-package org.example.org.Smihy;
+package Semaine02;
 
 public class Exercice_Triangle_équilatéral
 {

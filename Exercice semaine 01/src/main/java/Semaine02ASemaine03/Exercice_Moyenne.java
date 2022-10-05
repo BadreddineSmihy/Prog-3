@@ -1,4 +1,4 @@
-package org.example.org.Smihy;
+package Semaine02;
 import java.util.Random;
 
 public class Exercice_Moyenne
