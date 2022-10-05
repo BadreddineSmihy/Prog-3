@@ -1,9 +1,7 @@
-package Semaine02;
+package Semaine02ASemaine03;
 
-import com.google.common.io.Resources;
 import java.io.IOException;
 import java.net.URL;
-import java.nio.charset.StandardCharsets;
 import java.util.Scanner;
 
 public class Exercice_Web

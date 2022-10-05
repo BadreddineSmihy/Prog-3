@@ -1,4 +1,4 @@
-package Semaine02;
+package Semaine02ASemaine03;
 
 public class Exercice_Triangle_équilatéral
 {

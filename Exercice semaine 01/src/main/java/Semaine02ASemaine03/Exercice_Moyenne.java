@@ -1,4 +1,4 @@
-package Semaine02;
+package Semaine02ASemaine03;
 import java.util.Random;
 
 public class Exercice_Moyenne

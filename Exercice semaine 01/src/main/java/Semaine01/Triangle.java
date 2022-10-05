@@ -1,4 +1,4 @@
-package org.example.org.Smihy;
+package Semaine01;
 
 public class Triangle
 
