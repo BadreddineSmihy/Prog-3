@@ -1,4 +1,4 @@
-package Tp01;
+package Semaine05.Tp01;
 
 import org.apache.commons.validator.routines.UrlValidator;
 import org.jsoup.Jsoup;
