@@ -4,14 +4,14 @@ public class test {
     public static void main(String[] args) {
 
         int d = 5;
-        int n = 12345655;
+        int n = 5554555;
 
-        System.out.println(countoccurrences(n,d));
+        System.out.println(amazing(n,d));
     }
 
 
 
-    public static int countoccurrences(int n,
+    public static int amazing(int n,
                                 int d)
     {
         int count = 0;
