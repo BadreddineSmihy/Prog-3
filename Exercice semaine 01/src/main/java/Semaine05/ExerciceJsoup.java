@@ -13,7 +13,7 @@ public class ExerciceJsoup {
 
     public static void main(String[] args) throws IOException {
 
-        String orl = args[0].toString();
+        String orl = args[0];
 
         Document document;
         document = Jsoup.connect(orl).get();

@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class LitFichier {
     public static void main(String[] args) {
         try {
-            File myObj = new File("Nom");
+            File myObj = new File("Nome");
             Scanner myReader = new Scanner(myObj);
             while (myReader.hasNextLine()) {
                 String data = myReader.nextLine();
